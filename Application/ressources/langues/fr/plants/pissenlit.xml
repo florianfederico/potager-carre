@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Pissenlit">
+	<image>pissenlit.png</image>
+	<description>Le pissenlit est une fleur des champs emblématique et une plante médicinale bien connue. Pour en avoir toujours à portée de la main, il est cultivé dans un potager comme un légume, dont les feuilles et les fleurs se récoltent toute l’année. Un carré produit suffisamment pour la consommation de deux personnes.</description>
+	<taille>25</taille>
+	<superficie>1</superficie>
+	<famille>Astéracées</famille>
+	<type>Fleur</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

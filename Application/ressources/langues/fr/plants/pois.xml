@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Pois">
+	<image>pois_grimpantes.png</image>
+	<description>C’est la qualité qui prime sur la quantité. “Côté poids” le rendement est limité (environ 500g pour les variétés naines sur deux carrés), mais “côté pois”, leur goût est unique quand ils proviennent du potager et ils sont incontournables pour cuisiner une jardinière de légumes. On peut choisir entre les variétés à écosser appelées “petits pois” ou mangetout appelées “pois gourmands”.</description>
+	<taille>200</taille>
+	<superficie>1</superficie>
+	<famille>Fabacées</famille>
+	<type>Fruit</type>
+	<position>100</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

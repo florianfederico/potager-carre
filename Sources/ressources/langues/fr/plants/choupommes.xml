@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Chou Pommés">
+	<image>chou_pomme.png</image>
+	<description>Le chou rouge est une variété de chou pommé, au même titre que le chou cabus (vert clair et au feuillage lisse) et le chou de Milan (vert bleuté et au feuillage cloqué). Leur culture en carrés donne la possibilité de constituer des réserves hivernales ou de s’organiser pour avoir des choux au potager tout au long de l’année.</description>
+	<taille>30</taille>
+	<superficie>1</superficie>
+	<famille>Brassicacées</famille>
+	<type>Fleur</type>
+	<position>010</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>4</rotation>
+</plant>

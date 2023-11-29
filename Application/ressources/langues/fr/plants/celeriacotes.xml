@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+
+<plant name="Céleri à Côtes">
+	<image>celeri_cotes.png</image>
+	<description>Le “céleri à côtes” est aussi appelé “céleri branches”. Les deux termes désignent les parties récoltées sur la plante, à la différence du céleri-rave. C’est à la fois un légume et une plante condimentaire, très appréciable au potager puisqu’il se récolte jusqu’à l’entrée de l’hiver et permet de constituer des réserves. De plus sa culture est simple.</description>
+	<taille>50</taille>
+	<superficie>1</superficie>
+	<famille>Apiacées</famille>
+	<type>Feuille</type>
+	<position>100</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>4</rotation>
+</plant>

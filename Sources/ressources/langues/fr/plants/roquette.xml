@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Roquette">
+	<image>roquette.png</image>
+	<description>Son goût prononcé est délicieusement typé, ce qui lui a peut-être valu d’être considérée comme aphrodisiaque et interdite dans les jardins des monastères. Au potager en carrés, c’est une gourmandise parmi les plus simples à obtenir, la plus précoce et la plus tardive. Un carré fournit plusieurs cueillettes successives pour deux personnes et plus.</description>
+	<taille>25</taille>
+	<superficie>1</superficie>
+	<famille>Brassicacées</famille>
+	<type>Feuille</type>
+	<position>111</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>3</rotation>
+</plant>

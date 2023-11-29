@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<lang>
+	<noms>
+		<FENETRE_PRINCIPALE>Potager en carrés</FENETRE_PRINCIPALE>
+		<FENETRE_CHARGEMENT>Chargement...</FENETRE_CHARGEMENT>
+		<FENETRE_VALIDATION_QUITTER>Quitter</FENETRE_VALIDATION_QUITTER>
+		<NOUVEAU_POTAGER>Nouveau potager</NOUVEAU_POTAGER>
+		<legumotheque>Légumothèque</legumotheque>
+		<boussole>Boussole</boussole>
+		<erreur>Erreur</erreur>
+		<warning>Attention</warning>
+		<informations>Informations</informations>
+		<regleErreur>Règles non respectées</regleErreur>
+		<historique>Historique</historique>
+		<doubleNom>Double nom</doubleNom>
+		<champVide>Champ vide</champVide>
+		<quitter>Quitter</quitter>
+		<suppressionImpossible>Suppression impossible</suppressionImpossible>
+		<suppressionReussie>Suppression réussie</suppressionReussie>
+	</noms>
+	<icones>
+		<sauvegarde>Voulez-vous sauvegarder les modifications ?</sauvegarde>
+		<supprimerPlanche>Voulez-vous vraiment supprimer cette planche ?</supprimerPlanche>
+		<supprimerPotager>Voulez-vous vraiment supprimer ce potager ?</supprimerPotager>
+		<impossibleSupprPot>Il est impossible de supprimer un potager qui n'a jamais été sauvegardé.</impossibleSupprPot>
+		<potagerSuppr>Le potager a été correctement supprimé.</potagerSuppr>
+	</icones>
+	<titres>
+		<ACCUEIL_PANEL>Gérez vos potagers en carrés</ACCUEIL_PANEL>
+		<LISTE_POTAGER>Mes potagers :</LISTE_POTAGER>
+	</titres>
+	<erreurs>
+		<FICHIER_NON_TROUVE>Fichier non trouvé</FICHIER_NON_TROUVE>
+		<FICHIER_MAL_ENCODE>Encodage de potager incorrect</FICHIER_MAL_ENCODE>
+		<CLASSE_NON_TROUVEE>Classe non trouvée</CLASSE_NON_TROUVEE>
+		<CREATION_SPLASH>Erreur creation splashScreen</CREATION_SPLASH>
+		<VISUEL_INDISPONIBLE>Aucun visuel disponible</VISUEL_INDISPONIBLE>
+		<plantInvalide>Veuillez selectionner un plant valide</plantInvalide>
+		<dejaPresent>Impossible de placer le plant ici</dejaPresent>
+		<continuer>Il est déconseillé de placer un plant ici. Voulez vous tout de même continuer ?</continuer>
+		<reglesConflit1>Les règles suivantes ne sont pas respectées.</reglesConflit1>
+		<reglesConflit2>Elles déconseillent d'ajouter un plant dans ce carré.</reglesConflit2>
+		<doubleNom>Ce nom de #1 a déjà été choisi. Veuillez en choisir un nouveau.</doubleNom>
+		<champVide>Le nom ne doit pas être un champ vide</champVide>
+		<nomFichier>Votre nom de fichier est incorrect.</nomFichier>
+	</erreurs>
+	<demandes>
+		<VALIDATION_QUITTER>Voulez-vous vraiment quitter ?</VALIDATION_QUITTER>
+		<QUITTER_OPTION1>Oui</QUITTER_OPTION1>
+		<QUITTER_OPTION2>Non</QUITTER_OPTION2>
+		<nomFichier>Entrez le nom de votre fichier</nomFichier>
+	</demandes>
+	<boutons>
+		<QUITTER>Quitter</QUITTER>
+		<NOUVEAU_POTAGER>Nouveau potager</NOUVEAU_POTAGER>
+		<VALIDER_POTAGER>Valider</VALIDER_POTAGER>
+	</boutons>
+	<defaut>
+		<FAMILLE>Toutes les familles</FAMILLE>
+		<TYPE>Tous les types</TYPE>
+		<ADRESSE></ADRESSE>
+		<NOM_POTAGER>Potager #i</NOM_POTAGER>
+		<NOM_PLANCHE>Planche #i</NOM_PLANCHE>
+		<ensoleille>Ensoleillé</ensoleille>
+		<ombrage>Ombragé</ombrage>
+		<situation>Situation : </situation>
+		<etat>Etat : </etat>
+		<etat_vide>vide</etat_vide>
+		<etat_contient>contient </etat_contient>
+	</defaut>
+	<plant>
+		<soleil_requis>Soleil requis</soleil_requis>
+		<soleil_non_requis>Sans importance</soleil_non_requis>
+		<voirFiche>Voir la fiche légume</voirFiche>
+		<pos2>centre </pos2>
+		<pos1>coins </pos1>
+		<pos0>côtés </pos0>
+	</plant>
+	<legumotheque>
+		<type> Type : </type>
+		<famille> Famille : </famille>
+		<exposition> Exposition : </exposition>
+		<fiche>Plus d'informations</fiche>
+	</legumotheque>
+	<carre>
+		<vider>Vider le carré</vider>
+		<annuler>Annuler le contenu</annuler>
+		<ajout>Ajout de : </ajout>
+		<ajouter>Ajouter</ajouter>
+		<conflits>Voir les conflits</conflits>
+		<possible>Plants possibles</possible>
+		<possibilite>Possible</possibilite>
+		<deconseil>Déconseillé</deconseil>
+	</carre>
+	<frame>
+		<ensoleillement>Exposition : </ensoleillement>
+		<adresse>Adresse : </adresse>
+		<nom>Nom :</nom>
+		<ensoleillement>Ensoleillement :</ensoleillement>
+		<choix1>Ensoleillé</choix1>
+		<choix2>À l'ombre</choix2>
+		<informations1>Veuillez entrer les caractéristiques</informations1>
+		<informations2>de votre </informations2>
+		<obligatoire>*Champs obligatoires</obligatoire>
+	</frame>
+	<historique>
+		<col_plant>plant</col_plant>
+		<col_date>date retrait</col_date>
+		<complet>Historique complet</complet>
+	</historique>
+	<potager>
+		<messageBoussole>Déplacez la boussole pour positionner le sud de votre potager. Cette action est obligatoire pour gérer votre jardin.</messageBoussole>
+		<placerBoussole>Voulez vous vraiment placer la boussole à cet endroit ?</placerBoussole>
+	</potager>
+	<type>
+		<planche>planche</planche>
+		<potager>potager</potager>
+	</type>
+	<menu>
+		<fichier>Fichier</fichier>
+		<edition>Edition</edition>
+		<aide>Aide</aide>
+		<propos>À propos</propos>
+		<enregistrer>Enregistrer</enregistrer>
+		<enregistrerSous>Enregistrer sous...</enregistrerSous>
+		<quitter>Quitter</quitter>
+	</menu>
+</lang>

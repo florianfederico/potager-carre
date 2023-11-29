@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Chou Brocoli">
+	<image>brocoli.png</image>
+	<description>Les variétés annuelles s’adaptent à la culture en carrés, à condition d’opérer le “buttage incliné”, de leur offrir le sol humifère et l’environnement un peu humide qu’elles aiment. Ce légume au goût si fin peut être cultivé jusqu’à l’entrée de l’hiver.</description>
+	<taille>60</taille>
+	<superficie>1</superficie>
+	<famille>Brassicacées</famille>
+	<type>Fleur</type>
+	<position>010</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>4</rotation>
+</plant>

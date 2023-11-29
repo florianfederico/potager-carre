@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+<plant name="Haricots Naines">
+	<image>haricot_nain.png</image>
+	<description>Il convient de parler de ce légume au pluriel car il en existe plusieurs variétés(haricots fins, mangetout, frais ou secs) et espèces(haricots nains et haricots à rame). Tous peuvent se jardiner en carrés, offrant ainsi tous une gamme de curiosités  à cultiver et à cuisiner. Les haricots nains produisent environ 1,5kg sur deux carrés.</description>
+	<taille>45</taille>
+	<superficie>2</superficie>
+	<famille>Fabacées</famille>
+	<type>Fruit</type>
+	<position>011</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>2</rotation>
+</plant>
+

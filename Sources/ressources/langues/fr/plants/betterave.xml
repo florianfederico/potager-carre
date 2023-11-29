@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Betterave">
+	<image>betterave.png</image>
+	<description>La “bette-rave” est de la même espèce botanique que la bette, à la différence qu’elle offre une racine charnue et colorée à déguster, appelée couramment “rave”. Ses jeunes feuilles sont tout autant comestibles que sa cousine. Son semis est simple, son entretien limité et son rendement en carrés est très bon avec une récolte qui se fait en deux temps et s’échelonne jusqu’à l’automne.</description>
+	<taille>40</taille>
+	<superficie>1</superficie>
+	<famille>Chénopodiacées</famille>
+	<type>Racine</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Regles>
+	<cohabitation>
+		<adj legume1="Aubergine" legume2="Tomate" direction="1" reponse="false"/>
+		<adj legume1="Carotte" legume2="Chou Fleur" direction="1" reponse="false"/>
+		<adj legume1="Carotte" legume2="Céleri à Côtes" direction="1" reponse="false"/>							
+		<adj legume1="Carotte" legume2="Navet" direction="1" reponse="false"/>
+		<adj legume1="Carotte" legume2="Céleri Râve" direction="1" reponse="false"/>	
+		<adj legume1="Carotte" legume2="Radis Noir" direction="1" reponse="false"/>	
+		<adj legume1="Chou Fleur" legume2="Céleri Râve" direction="1" reponse="false"/>
+		<adj legume1="Chou Fleur" legume2="Céleri à Côtes" direction="1" reponse="false"/>
+		<adj legume1="Haricots Naines" legume2="Maïs Doux" direction="1" reponse="false"/><!--TODO-->
+		<adj legume1="Haricots Naines" legume2="Epinard" direction="1" reponse="false"/><!--TODO-->
+		<adj legume1="Haricots Naines" legume2="Poireau" direction="1" reponse="false"/><!--TODO-->
+		<adj legume1="Pissenlit" legume2="Chou Fleur" direction="1" reponse="false"/>	
+		<adj legume1="Pissenlit" legume2="Radis Noir" direction="1" reponse="false"/>
+		<adj legume1="Pissenlit" legume2="Oseille" direction="1" reponse="false"/>
+		<adj legume1="Maïs Doux" legume2="Laitues" direction="1" reponse="true"/>
+		<adj legume1="Maïs Doux" legume2="Radis" direction="1" reponse="true"/>
+		<adj legume1="Maïs Doux" legume2="Epinard" direction="1" reponse="true"/>
+		<adj legume1="Piment" legume2="Laitues" direction="1" reponse="true"/>
+		<adj legume1="Poivron" legume2="Laitues" direction="1" reponse="true"/>
+		<adj legume1="Piment" legume2="Radis" direction="1" reponse="true"/>
+		<adj legume1="Poivron" legume2="Radis" direction="1" reponse="true"/>
+	</cohabitation>
+	<rotations>
+		<rotation legume1="Carotte" legume2="Poireau" direction="0" reponse="true"/>
+		<rotation legume1="Carotte" legume2="Ail" direction="0" reponse="true"/>
+		<rotation legume1="Carotte" legume2="Oignon" direction="0" reponse="true"	/>
+		<rotation legume1="Betterave" legume2="Ail" direction="0" reponse="true"/>					
+		<rotation legume1="Betterave" legume2="Poireau" direction="0" reponse="true"/>
+		<rotation legume1="Betterave" legume2="Oignon" direction="0" reponse="true"/>	
+	</rotations>
+</Regles>

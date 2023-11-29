@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<icones>
+	<NouveauPotager value="0" img="ajouterJardin.png" desc="Nouveau potager"/>
+	<OuvrirPotager value="1" img="ouvrirPotager.png" desc="Ouvrir un potager"/>
+	<Enregistrer value="2" img="enregistrerPotager.png" desc="Enregistrer le potager"/>
+	<SupprimerPotager value="3" img="supprimerJardin.png" desc="Supprimer ce potager"/>
+	<EditerPotager value="4" img="modifierInfosJardin.png" desc="Editer les informations du potager"/>
+	<FermerPotager value="5" img="fermerPotager.png" desc="Fermer le potager"/>
+	<AfficherGrille value="6" img="afficherGrille.png" desc="Afficher la grille" descAlt="Cacher la grille"/>
+	<NouvellePlanche value="7" img="ajouterPlanche.png" desc="Nouvelle planche"/>
+	<SupprimerPlanche value="8" img="supprimerPlanche.png" desc="Supprimer la planche"/>
+	<DeplacerPlanche value="9" img="deplacerPlanche.png" desc="Déplacer la planche"/>
+	<EditerPlanche value="10" img="optionsPlanche.png" desc="Editer la planche"/>
+	<ReinitialiserPlanche value="11" img="reinitialiser.png" desc="Réinitialiser la planche"/>
+	<ViderPlanche value="12" img="viderPlanche.png" desc="Vider la planche"/>
+	<OuvrirPlanche value="13" img="ouvrirPlanche.png" desc="Ouvrir la planche"/>
+	<RetourPotager value="14" img="retourJardin.png" desc="Retourner au potager"/>
+	<ModifierEnsoleillement value="15" img="modifierEnsoleillement.png" desc="Modifier l'ensoleillement du carré"/>
+	<AnnulerLegume value="16" img="annulerMiseEnPlace.png" desc="Annuler la mise en place du plant dans la carré"/>
+	<ViderCarre value="17" img="retirerPlant.png" desc="Retirer le plant du carré"/>
+</icones>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Chou Rave">
+	<image>chou_rave.png</image>
+	<description>Sous cette allure amusante, semblable à un petit satellite suspendu au dessus du sol, se cache un légume ancien au goût très fin et tout à fait adapté à la méthode en carrés pour peu que le sol soit humifère et que sa drôle de tige soit butté. Autre intérêt du chou-rave : il fait partie des légumes à récolter jusqu’à l’automne.</description>
+	<taille>30</taille>
+	<superficie>1</superficie>
+	<famille>Brassicacées</famille>
+	<type>Fleur</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

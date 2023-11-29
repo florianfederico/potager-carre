@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Courgette">
+	<image>courgette.png</image>
+	<description>Une variété buissonnante a un port compact qui convient très bien au jardinage en carrés. Certes il lui faut de la place, mais ce légume mérite cette concession car il est très productif (autour de 30 courgettes par pied) jusqu’au début de l’automne et très esthétique.</description>
+	<taille>45</taille>
+	<superficie>4</superficie>
+	<famille>Cucurbitacées</famille>
+	<type>Fruit</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>2</rotation>
+</plant>

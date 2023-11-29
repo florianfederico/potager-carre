@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Laitues">
+	<image>laitue.png</image>
+	<description>Que de diversité pour ce légume, cultivé par cinq en carré et simple d’entretien: il y a les laitues pommées en été et les laitues romaines pour le printemps et l’automne-hiver; d’autres sont “à couper” pour le printemps et l’été (ce sont des “feuilles de chêne” ou des frisées à couper). Elles sont vertes ou rouges, lisses ou un peu frisées, tendre ou un peu épaisses et grasses, mais tout à croquer !</description>
+	<taille>20</taille>
+	<superficie>1</superficie>
+	<famille>Astéracées</famille>
+	<type>Feuille</type>
+	<position>011</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>1</rotation>
+</plant>

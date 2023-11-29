@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+SplashScreen-Image: image/loading.png
+Class-Path: lib/dom4j-1.6.1.jar
+Main-Class: common.Main

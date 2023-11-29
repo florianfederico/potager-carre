@@ -1,0 +1,88 @@
+
+<html>
+	<head>
+		<title>Legumotheque</title>
+		<meta charset="utf-8"/>
+		<style>
+		h1 
+		{
+			font-size: 1.1em; 
+			/*margin:20px; */
+			margin-left: 10px;
+			margin-right: 260px;
+			background-color: #FEF86C; 
+			margin-bottom: 30px;
+			padding:10px;
+			/*width: 250px;*/
+		}
+		img 
+		{
+			padding-left: 30px;
+		}
+		.bloc
+		{
+			font-size:1.0em; 
+			margin-left:-20px;
+			margin-bottom: 30px;
+			width: 250px;
+		}
+		.titre
+		{
+			font-weight: bold;
+		}
+		.description
+		{
+			font-size : 1.0em;
+			margin-left:-20px;
+		}
+		P
+		{
+			padding: 10px; 
+			margin:15px 10px; 
+			background-color: #FEF86C;
+		}
+		body
+		{
+			background: url("@IMAGE@");
+			background-size: 100px 50px;
+			background-position:100% 0%;
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			margin-right:20px;
+			font-family:Verdana,'Comic Sans MS','Times New Roman';
+		}
+		
+		#bloc_page {
+			width: 500px;
+			/*margin: auto;*/
+		}
+		</style>
+	</head>
+	
+	<body>
+		<div id="bloc_page">
+			<h1>Nom du plant : @NOM@</h1>
+			
+			<div class="bloc" >
+				<p>
+					<span class="titre" >Famille :</span> @FAMILLE@	<br/>
+					<span class="titre" >Type :</span> @TYPE@<br/>
+					<span class="titre" >Taille :</span> @TAILLE@<br/>
+					<span class="titre" >Superficie :</span> @SUPERFICIE@<br/>
+					<span class="titre" >Position :</span> @POSITION@<br/>
+					<span class="titre" >Ensoleilement :</span> @ENSOLEILLEMENT@<br/>
+					<span class="titre" >Rotation :</span> @ROTATION@
+				</p>
+			</div>
+			
+		</div>
+			<div class="description">
+				<p>
+					<span class="titre" >Description</span> : 
+					<br/><br/>
+					@DESCRIPTION@
+				</p>
+			</div>
+	</body>
+	
+</html>

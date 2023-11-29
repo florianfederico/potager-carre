@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Thym">
+	<image>thym.png</image>
+	<description>#Se procurer un plant la solution pour débuter ; il pourra être divisé à l’automne au bout de 3 ou 4 années. Le thym se plaît dans des sols limoneux et secs, mais n’apprécie pas ceux qui sont humides et frais. Il craint aussi les gelées trop fortes et peut donc être installé en pot de terre cuite, rentré en hiver. Ses rameaux se cueillent au fur et à mesure des besoins et juste en début de floraison pour la conservation en les faisant sécher.</description>
+	<taille>30</taille>
+	<superficie>1</superficie>
+	<famille>Lamiacées</famille>
+	<type>Fleur</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Poireau">
+	<image>poireau.png</image>
+	<description>C’est un des légumes incontournables pour une vie en autonomie sur le potager puisqu’il se récolte sur 12 mois, à conditions de faire deux vagues de plantations : une première au printemps pour les variétés dites précoces qui se cueillent en été et à l’automne et l’autre pour les variétés dites tardives qui assurent des récoltes en hiver et au printemps l’année suivante. 12 poireaux sont cultivés par carré.</description>
+	<taille>60</taille>
+	<superficie>1</superficie>
+	<famille>Alliacées</famille>
+	<type>Feuille</type>
+	<position>111</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>4</rotation>
+</plant>

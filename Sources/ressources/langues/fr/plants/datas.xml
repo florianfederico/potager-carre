@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datas>
+	<plants>
+		<plant name="Ciboulette">ciboulette.xml</plant>
+		<plant name="Poireau">poireau.xml</plant>
+		<plant name="Céleri à côtés">celeriacotes.xml</plant>
+		<plant name="Persil">persil.xml</plant>
+		<plant name="Chicorées">chicorees.xml</plant>
+		<plant name="Estragon">estragon.xml</plant>
+		<plant name="Laitues">laitues.xml</plant>
+		<plant name="Roquette">roquette.xml</plant>
+		<plant name="Epinard">epinard.xml</plant>
+		<plant name="Poirée">poiree.xml</plant>
+		<plant name="Oseille">oseille.xml</plant>
+		<plant name="Mâche">mache.xml</plant>
+		<plant name="Pissenlit">pissenlit.xml</plant>
+		<plant name="Chou Brocoli">choubrocoli.xml</plant>
+		<plant name="Chou Fleur">choufleur.xml</plant>
+		<plant name="Chou Pommés">choupommes.xml</plant>
+		<plant name="Chou Rave">chourave.xml</plant>
+		<plant name="Basilic">basilic.xml</plant>
+		<plant name="Thym">thym.xml</plant>
+		<plant name="Concombre">concombre.xml</plant>
+		<plant name="Cornichon">cornichon.xml</plant>
+		<plant name="Courgette">courgette.xml</plant>
+		<plant name="Haricot à Rame">haricotsarame.xml</plant>
+		<plant name="Haricot Naines">haricotsnaines.xml</plant>
+		<plant name="Pois">pois.xml</plant>
+		<plant name="Pois naines">poisnaines.xml</plant>
+		<plant name="Mais Doux">maisdoux.xml</plant>
+		<plant name="Aubergine">aubergine.xml</plant>
+		<plant name="Piment">piment.xml</plant>
+		<plant name="Poivron">poivron.xml</plant>
+		<plant name="Tomate">tomate.xml</plant>
+		<plant name="Ail">ail.xml</plant>
+		<plant name="Echalote">echalote.xml</plant>
+		<plant name="Oignon">oignon.xml</plant>
+		<plant name="Carotte">carotte.xml</plant>
+		<plant name="Celerirave">celerirave.xml</plant>
+		<plant name="Navet">navet.xml</plant>
+		<plant name="Radis">radis.xml</plant>
+		<plant name="radisnoir">radisnoir.xml</plant>
+		<plant name="betterave">betterave.xml</plant>
+		<plant name="melon">melon.xml</plant>		
+	</plants>
+	<familles>
+		<famille color="#2DBDD7">Alliacées</famille>
+		<famille color="#EB7221">Apiacées</famille>
+		<famille color="#9EF260">Astéracées</famille>
+		<famille color="#42CB4C">Brassicacées</famille>
+		<famille color="#C4D723">Chénopodiacées</famille>
+		<famille color="#F6BF5B">Cucurbitacées</famille>
+		<famille color="#7AA2E0">Fabacées</famille>
+		<famille color="#E07DE6">Lamiacées</famille>
+		<famille color="#F4F6C1">Poacées</famille>
+		<famille color="#CE03C7">Polygonacées</famille>
+		<famille color="#DD178B">Solanacées</famille>
+		<famille color="#1BB906">Valérianacées</famille>
+	</familles>
+	<types>
+		<type image="feuille.png">Feuille</type>
+		<type image="fleur.png">Fleur</type>
+		<type image="fruit.png">Fruit</type>
+		<type image="racine.png">Racine</type>
+	</types>
+</datas>
+
+

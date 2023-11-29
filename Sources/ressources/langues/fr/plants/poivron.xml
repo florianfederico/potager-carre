@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Poivron">
+	<image>poivron.png</image>
+	<description>Le piment et le poivron sont tous les deux des variétés différentes de la même plante, le piment tant plus fin de forme mais beaucoup plus fort en goût que le poivron. Ce dernier est un incontournable des saveurs de l’été. Un plant produit environ quatre poivrons dans des régions tempérés (plus sous un climat chaud.</description>
+	<taille>70</taille>
+	<superficie>1</superficie>
+	<famille>Solanacées</famille>
+	<type>Fruit</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>
+

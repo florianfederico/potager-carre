@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Estragon">
+	<image>estragon.png</image>
+	<description>#Une exposition lumineuse et chaude doit être choisie, qui ne souffre pas des gelées tardives en hiver. Se procurer un plant est la solution qui occupera un carré à lui seul car la plante peut s’étaler. Elle n’aime pas souffrir de manque d’eau et demande aussi à être protégée par un paillage dès l’automne. Les pieds sont divisés tous les 3 à 4 ans. Les feuilles se récoltent avec leurs rameaux jusqu’aux gelées et se conservent en les faisant sécher ou congelées.</description>
+	<taille>50</taille>
+	<superficie>1</superficie>
+	<famille>Astéracées</famille>
+	<type>Feuille</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>4</rotation>
+</plant>

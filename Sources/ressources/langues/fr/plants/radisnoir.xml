@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Radis Noir">
+	<image>radis_noir.png</image>
+	<description>Le goût fort prononcé de la grosse racine de ce légume lui vaut d’être surnommé “le raifort des Parisiens”, alors qu’il est de tradition dans l’Est de la France. On l’appelle aussi “radis d’hiver car il se cueille tardivement et certaines variétés résistent aux gelées. Il est ainsi parmi les dernières  crudités à déguster à l’automne. Un carré fournit douze radis. Un seul peut constituer une entrée pour deux personnes.</description>
+	<taille>40</taille>
+	<superficie>1</superficie>
+	<famille>Brassicacées</famille>
+	<type>Racine</type>
+	<position>100</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>3</rotation>
+</plant>

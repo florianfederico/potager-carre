@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Chou Fleur">
+	<image>choufleur.png</image>
+	<description>Avec le “buttage incliné” ce chou est adapté à la culture en carrés mais , pour obtenir cette belle pomme grosse et blanche, il faut lui offrir les conditions qu’elle affectionne: une place à l’ombre, un environnement frais et humide avec paillage et arrosages réguliers. Il donnera alors une belle récolte jusqu'à l’automne.</description>
+	<taille>45</taille>
+	<superficie>1</superficie>
+	<famille>Brassicacées</famille>
+	<type>Fleur</type>
+	<position>010</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>4</rotation>
+</plant>
+

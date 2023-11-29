@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Basilic">
+	<image>basilic.png</image>
+	<description>Le basilic se sème en intérieur dès le mois de mars et prend place au potager en juin. Il apprécie la chaleur et se plaît en association dans le même carré qu’un plant de tomate ou en culture dérobée devant un concombre, qui sont arrosés régulièrement. Il existe du basilic vert ou pourpre, très décoratif. La cueillette s’effectue régulièrement(pour retarder la montée en graines) de juin à septembre.</description>
+	<taille>35</taille>
+	<superficie>1</superficie>
+	<famille>Lamiacées</famille>
+	<type>Feuille</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>2</rotation>
+</plant>

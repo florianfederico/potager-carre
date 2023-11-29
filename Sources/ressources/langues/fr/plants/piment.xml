@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Piment">
+	<image>piment.png</image>
+	<description>Les piments et les poivrons sont des variétés différentes de la même plante, le piment étant plus fin de forme mais beaucoup plus fort en goût que le poivron.</description>
+	<taille>70</taille>
+	<superficie>1</superficie>
+	<famille>Solanacées</famille>
+	<type>Fruit</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

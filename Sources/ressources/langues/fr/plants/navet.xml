@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Navet">
+	<image>navet.png</image>
+	<description>#Les variétés de printemps et d’été rentrent dans la composition des fameuses “jardinières de légumes” avec les premiers petits pois, oignons, carottes, poireaux, puis d’autres recettes à l’automne accommodent les variétés de fin de saison. Un carré fournit 10 à 12 de ces petits légumes fondants et au goût caractéristique.</description>
+	<taille>40</taille>
+	<superficie>1</superficie>
+	<famille>Brassicacées</famille>
+	<type>Racine</type>
+	<position>011</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>3</rotation>
+</plant>

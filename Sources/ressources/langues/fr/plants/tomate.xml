@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Tomate">
+	<image>tomate.png</image>
+	<description>”Les pêches de loups” fut longtemps cosidéré comme vénéneuse(elle est de la famille de la maléfique mandragore), avant d’être dénommé “la pomme d’amour” quand furent reconnues ses qualités gustatives. Quel bonheur que de voir rougir ses tomates, de croquer dans leur chair ferme ou juteuse, de goûter leurs saveurs.  C’est une plante généreuse dans l’environnement qui lui plaît. Les variétés à port indéterminé conviennent au jardinage en carrés et un pied produit environ 3kg.</description>
+	<taille>175</taille>
+	<superficie>1</superficie>
+	<famille>Solanacées</famille>
+	<type>Fruit</type>
+	<position>011</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>4</rotation>
+</plant>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Mâche">
+	<image>mache.png</image>
+	<description>Les varétés d’été sont une bonne idée pour démarrer la saison en préparant le sol par un amendement (la mâche apprécie l’humus mais pas les terres argileuses). Celles d’hiver offrent des salades à récolter jusqu’au début de l’année suivante. Un carré produit environ de quoi faire deux saladiers pour deux personnes et plusieurs carrés peuvent être planifiés de part en part du potager.</description>
+	<taille>15</taille>
+	<superficie>1</superficie>
+	<famille>Valérianacées</famille>
+	<type>Feuille</type>
+	<position>111</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>2</rotation>
+</plant>

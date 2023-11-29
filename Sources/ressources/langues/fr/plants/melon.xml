@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Melon">
+	<image>melon.png</image>
+	<description>C’est une évidence quand le climat est chaudement ensoleillé. Ailleurs, le melon est au potager ce qu’une cerise est sur un gâteau. Mais il faut l’essayer car c’est le légume de l’humilité qui apprend à choisir le bon emplacement, à pailler, à tailler, à maintenir le sol frais, à réaliser des traitements naturels, et à ne pas réussir éventuellement sa culture si la météo n’y met pas un peu d’elle-même. Quatre melon peuvent être escomptés par carré.</description>
+	<taille>150</taille>
+	<superficie>1</superficie>
+	<famille>Cucurbitacées</famille>
+	<type>Fruit</type>
+	<position>001</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>
+

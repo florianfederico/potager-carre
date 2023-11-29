@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Maïs Doux">
+	<image>mais.png</image>
+	<description>Cette céréale se cultive au potager pour être consommée sous la forme de maïs doux (appelé aussi “maïs sucré”) ou de maïs à éclater Les multiples variétés présentent des grains aux couleurs très variées (jaune, rouge, bruns ,etc.). Un pied produit un ou deux épis. C’est le seul légume de cette famille botanique, ce qui simplifie la planification des cultures qui l’entourent, le précèdent ou le suivent.</description>
+	<taille>175</taille>
+	<superficie>1</superficie>
+	<famille>Poacées</famille>
+	<type>Fruit</type>
+	<position>110</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>4</rotation>
+</plant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Echalote">
+	<image>echalote.png</image>
+	<description>”C’en est fini des rangs d’échalotes ! Voici une culture emblématiques des atouts du jardinage en carrés. Quatre carrés produisent 200 échalotes. Ce légume est très peu exigeants, peu épuisants pour le sol, et parfaits en cultures d’automne-hiver quand les autres carrés sont libérés.</description>
+	<taille>25</taille>
+	<superficie>1</superficie>
+	<famille>Alliacées</famille>
+	<type>Racine</type>
+	<position>111</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>3</rotation>
+</plant>
+

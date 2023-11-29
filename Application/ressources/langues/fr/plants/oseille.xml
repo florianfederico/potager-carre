@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Oseille">
+	<image>oseille.png</image>
+	<description>Cette vivace s’installe dans un carré pour du long terme (4 ans). Mais cette occupation se justifie par sa productivité tout au long de l’année est que l’oseille, au goût acidulé, est à la fois un légume et une condimentaire qui vient relever les préparations culinaires d’autres légumes (salades, soupes par exemple).</description>
+	<taille>40</taille>
+	<superficie>1</superficie>
+	<famille>Polygonacées</famille>
+	<type>Feuille</type>
+	<position>110</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>4</rotation>
+</plant>

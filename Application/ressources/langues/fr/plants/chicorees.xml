@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Chicorées">
+	<image>chicoree.png</image>
+	<description>Elles sont complémentaires des laitues pour déguster des salades le plus longtemps possible. Les variétés frisées conviennent en début de saison et pendant l’été. Les scaroles(résistantes à -5°C) et “pain de sucre”(-10°C) font les récoltes d’automne-hiver. En climat clément et protégées, ces dernières peuvent passer l’hiver pour constituer les premières verdures l’année suivante.</description>
+	<taille>35</taille>
+	<superficie>1</superficie>
+	<famille>Astéracées</famille>
+	<type>Feuille</type>
+	<position>011</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>2</rotation>
+</plant>

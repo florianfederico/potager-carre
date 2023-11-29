@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Carotte">
+	<image>carotte.png</image>
+	<description>Les fameuses carottes de Créances en disent long sur le type de sol que ce légume apprécie: sableux à limoneux, mais surtout pas argileux. Cela guide le choix du carré en fonction de la terre du jardin et la préparation du terrain. Dans une terre appropriée, 15 à 20 carottes peuvent être récoltées par carré, avec un peu d’entretien et ,au final, un légume délicieusement croquant.</description>
+	<taille>35</taille>
+	<superficie>1</superficie>
+	<famille>Apiacées</famille>
+	<type>Racine</type>
+	<position>100</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>4</rotation>
+</plant>
+
+

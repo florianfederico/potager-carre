@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<informations>
+	<path>
+		<langues>ressources/langues/@LANG@/</langues>
+		<potager>ressources/jardins/</potager>
+		<plants>ressources/langues/@LANG@/plants/</plants>
+		<vues>ressources/vues/</vues>
+		<imagesDivers>ressources/images/divers/</imagesDivers>
+		<imagesIcones>ressources/images/icones/</imagesIcones>
+		<imagesFamilles>ressources/images/familles/</imagesFamilles>
+		<imagesPlants>ressources/images/plants/</imagesPlants>
+		<imagesTypes>ressources/images/types/</imagesTypes>
+		<imagesCurseur>ressources/cursor/</imagesCurseur>
+	</path>
+	<default>
+		<langue>fr</langue>
+		<iconeFichier>icone.png</iconeFichier>
+		<langueFichier>lang.xml</langueFichier>
+		<iconesFichier>icones.xml</iconesFichier>
+		<reglesFichier>regles.xml</reglesFichier>
+		<reglesBaseFichier>regles_specifiques.xml</reglesBaseFichier>
+		<nouveauPotager>nouveauJardin.png</nouveauPotager>
+		<basePlantFichier>datas.xml</basePlantFichier>
+		<iconeImage>icone.png</iconeImage>
+		<imagePlanche>planche.png</imagePlanche>
+		<htmlFile>ficheLegume.html</htmlFile>
+		<sud>sud_tresser.png</sud>
+	</default>
+	<curseur>
+		<valide>ok.png</valide>
+		<remove>remove.png</remove>
+	</curseur>
+	<possibilites>
+		<possible>possible.png</possible>
+		<impossible>impossible.png</impossible>
+		<warning>warning.png</warning>
+	</possibilites>
+	<fonds>
+		<jardin>jardin_fond.png</jardin>
+		<planche>planche.png</planche>
+		<menu>menu_fond.png</menu>
+		<footer>footer_fond.png</footer>
+		<icones>icones_fond.png</icones>
+		<titre>titre_fond.png</titre>
+		<accueil>accueil_fond.png</accueil>
+	</fonds>
+	<dimensions>
+		<fenetre>800,557</fenetre>
+		<mainPanel>800,560</mainPanel>
+		<accueilPanel>800,560</accueilPanel>
+		<potagerPanel>584,502</potagerPanel>
+		<planchePanel>584,502</planchePanel>
+	</dimensions>
+</informations>

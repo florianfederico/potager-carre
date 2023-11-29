@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Ciboulette">
+	<image>ciboulette.png</image>
+	<description>Le semis de cette vivace est simple à réaliser dès le mois d’avril. La ciboulette peut occuper tout un carré, par 9 poquets la première année puis par 5 quand les plants ont pris de l’ampleur. Elle s’associe aussi avec le persil qui a les mêmes exigences de sol et d’entretien, dont des arrosages réguliers. Ses tiges se récoltent au fur et à mesures des besoins jusqu’aux gelées et se conservent congelées. Les fleurs agrémentent les salades.</description>
+	<taille>35</taille>
+	<superficie>1</superficie>
+	<famille>Alliacées</famille>
+	<type>Feuille</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

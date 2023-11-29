@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Epinard">
+	<image>epinard.png</image>
+	<description>Ce légume a de bons arguments pour trouver un carré dans le potager : il fait partie des premières verdures du printemps et des dernières puisqu’il existe des variétés dites “d’été” et d’autres d’hiver. Un carré produit une poignée d’épinards suffisante pour deux personnes en salade.</description>
+	<taille>25</taille>
+	<superficie>1</superficie>
+	<famille>Chénopodiacées</famille>
+	<type>Feuille</type>
+	<position>111</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

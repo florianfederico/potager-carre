@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Ail">
+	<image>ail.png</image>
+	<description>C’en est fini des rangs d’ail ! Voici une culture emblématiques des atouts du jardinage en carrés. Quatre carrés produisent une cinquantaine de gousses d’ail. Ce légume est très peu exigeants, peu épuisants pour le sol, et parfaits en cultures d’automne-hiver quand les autres carrés sont libérés.</description>
+	<taille>50</taille>
+	<superficie>1</superficie>
+	<famille>Alliacées</famille>
+	<type>Racine</type>
+	<position>011</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>
+

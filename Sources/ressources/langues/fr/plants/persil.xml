@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Persil">
+	<image>persil.png</image>
+	<description>#Le semis est gratifiant à réaliser même s’il est long à lever et une solution consiste à se procurer des plants qui sont placés au potager dans des pots de terre cuite, rentrés pendant l’hiver. Sinon, le persil est protégé dès les premières gelées par une mini-serre. Il existe des variétés plates ou frisées. Les feuilles sur leurs tiges se cueillent jusqu’en automne et se conservent congelées.</description>
+	<taille>35</taille>
+	<superficie>1</superficie>
+	<famille>Apiacées</famille>
+	<type>Feuille</type>
+	<position>111</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>3</rotation>
+</plant>

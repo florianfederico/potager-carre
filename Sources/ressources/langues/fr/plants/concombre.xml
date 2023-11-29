@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Concombre">
+	<image>concombre.png</image>
+	<description>Voilà des légumes très productifs pour l’été(10 concombres et même plus pour un pied) sur un minimum de surface au sol. En hauteur il faut prévoir un palissage capable d’accueillir la tige principale qui atteint jusqu’à 2 mètres. Le concombre produit de gros fruits longs, alors que le cornichon donne naissance(en plus grand nombre encore) à des fruits plus petits utilisés comme condimentaires.</description>
+	<taille>200</taille>
+	<superficie>1</superficie>
+	<famille>Cucurbitacées</famille>
+	<type>Fruit</type>
+	<position>011</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>3</rotation>
+</plant>

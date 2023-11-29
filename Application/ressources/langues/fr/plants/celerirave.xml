@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Céleri Râve">
+	<image>celeri_rave.png</image>
+	<description>Cette variété de céleri a la particularité de développer une grosse racine comestible, appelée “rave”. plus amer que celui du céleri côtes. À condition que le sol soit humifère (il n’apprécie pas les sols calcaires), c’est un des légumes à retenir pour des récoltes d’automne et des provisions hivernales.</description>
+	<taille>50</taille>
+	<superficie>1</superficie>
+	<famille>Apiacées</famille>
+	<type>Feuille</type>
+	<position>011</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>3</rotation>
+</plant>

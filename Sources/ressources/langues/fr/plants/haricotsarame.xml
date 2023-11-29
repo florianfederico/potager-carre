@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Haricots à Rame">
+	<image>haricot_a_rames.png</image>
+	<description>Il convient de parler de ce légume au pluriel car il en existe plusieurs variétés(haricots fins, mangetout, frais ou secs) et espèces(haricots nains et haricots à rame). Tous peuvent se jardiner en carrés, offrant ainsi tous une gamme de curiosités  à cultiver et à cuisiner. Les haricots à rame produisent environ 1,5kg sur un seul carré.</description>
+	<taille>225</taille>
+	<superficie>1</superficie>
+	<famille>Fabacées</famille>
+	<type>Fruit</type>
+	<position>100</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>2</rotation>
+</plant>
+

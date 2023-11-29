@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Radis">
+	<image>radis.png</image>
+	<description>Avec les salades, rien de mieux adapté que ce légume pour comprendre un des avantages de cette méthode, à savoir cultiver juste les quantités suffisantes : un carré produit une grosse botte de radis par mois environ. Tout l’art de la planification est d’échelonner les semis pour en avoir régulièrement et goûter à toutes les variétés, rondes ou longues, rouges ou rosées.</description>
+	<taille>25</taille>
+	<superficie>1</superficie>
+	<famille>Brassicacées</famille>
+	<type>Racine</type>
+	<position>111</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>2</rotation>
+</plant>

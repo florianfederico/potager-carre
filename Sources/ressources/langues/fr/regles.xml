@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<regles>
+	<regle value="0">Le placement est impossible.</regle>
+	<regle value="1">Les carrés voisins sont de la même famille.</regle>
+	<regle value="2">Les carrés voisins sont de la même type.</regle>
+	<regle value="3">Ce plant est déjà présent sur la planche.</regle>
+	<regle value="4">Le dernier plant placé dans ce carré était un plant du même famille.</regle>
+	<regle value="5">Le dernier plant placé dans ce carré était un plant du même type.</regle>
+	<regle value="6">Ce plant ne peut être placé sur n'importe quel carré. Il n'est pas possible de le placer sur celui-ci.</regle>
+	<regle value="7">Ce plant ne peut pas encore être posé de nouveau sur ce carré.</regle>
+	<regle value="8">Ce plant a besoin de soleil. Ce carré n'est pas suffisamment ensoleillé</regle>
+	<regle value="9">Ce plant risque de faire de l'ombre sur les carrés adjacents.</regle>
+	<regle value="10">Il est déconseillé de placer un légume n'ayant pas besoin d'ensoleillement au sud.</regle>
+	<regle value="11">Il y a une règle perticulière qui déconseille la pose du légume sur ce carré. (historique)</regle>
+	<regle value="12">Il y a une règle perticulière qui déconseille la pose du légume sur ce carré. (adjacence)</regle>
+</regles>

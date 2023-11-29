@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant name="Aubergine">
+	<image>aubergine.png</image>
+	<description>C’est un légume de soleil qui fructifie  à merveille à des températures entre 20 et 25 degrés. Un pied produit alors jusqu’à 10 aubergines, mais ce chiffre est à pondérer en fonction du climat de la région. Même si la récolte est modeste, ce légume est à essayer, ne serait-ce que pour observer son étonnante nouaison (quand la fleur se transforme en fruit.</description>
+	<taille>70</taille>
+	<superficie>1</superficie>
+	<famille>Solanacées</famille>
+	<type>Fruit</type>
+	<position>100</position>
+	<ensoleillement>1</ensoleillement>
+	<rotation>4</rotation>
+</plant>
+

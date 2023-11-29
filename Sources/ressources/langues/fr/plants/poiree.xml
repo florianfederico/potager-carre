@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plant name="Poirée">
+	<image>poiree.png</image>
+	<description>Poirée, bette, bette à cardes ou blette sont les différents noms communs données à cette même généreuse et esthétique plante potagère, dont on consomme les feuilles et les cotes (ou cardes). Elle est cultivée souvent comme annuelle jusqu’aux premières gelées de l’automne mais, bien protégée, elle peut traverser des hivers. Un pied produit largement pour deux personnes.</description>
+	<taille>55</taille>
+	<superficie>1</superficie>
+	<famille>Chénopodiacées</famille>
+	<type>Feuille</type>
+	<position>010</position>
+	<ensoleillement>0</ensoleillement>
+	<rotation>3</rotation>
+</plant>
