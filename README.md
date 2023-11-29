@@ -12,9 +12,6 @@ La méthode du jardinage en carrés est une technique de jardinage inventée aux
 L’application se base sur différents codes ou expressions présents dans le livre **“Le guide pratique du potager en carrés : Tout pour planifier et cultiver” d’Anne-Marie Nageleisen**. 
 Vous pouvez consulter son site, dédié aux potagers en carrés, à cette adresse : http://www.potagerencarres.info et obtenir plus d’informations sur les origines de cette méthode à cette adresse : http://www.potagerencarres.info/origines.html.
 
-## Demo
-
-
 ## Fonctionnalités
 
 * Gérer des jardins
@@ -31,17 +28,27 @@ Vous pouvez consulter son site, dédié aux potagers en carrés, à cette adress
   <img src="readme/02-planche.png" alt="" width="400"/>
 </p>
 
+## Outils utilisés
+
+Programmation :
+* Java Swing
+
+Gestion de projet
+* BitBucket
+* Trello
+
 ## Contributeurs
 
-* Florian Federico
-* Anthony Thomas
-* Kevin Pin
-* Mathieu Lochet
-* Corentin Guillaume
-* Fabien Odic
-* Jérémy Tho
+* Florian Federico : chef de projet
+* Anthony Thomas : responsable Interface Homme-Machine
+* Kevin Pin : développeur, responsable de la documentation
+* Mathieu Lochet : intégrateur logiciel
+* Corentin Guillaume : rédacteur
+* Fabien Odic : responsable de la légumothèque
+* Jérémy Tho : infographiste
 
-* Tuteur : Jean-Christophe Vialat
+
+* Enseignant tuteur : Jean-Christophe Vialat
 
 
 ## Configuration
