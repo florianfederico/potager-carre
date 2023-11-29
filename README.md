@@ -28,7 +28,7 @@ Vous pouvez consulter son site, dédié aux potagers en carrés, à cette adress
 * Gestion de l'ensoleillement
  
 <p align="left">
-  <img src="readme/02-planche.png" alt="" width="200"/>
+  <img src="readme/02-planche.png" alt="" width="400"/>
 </p>
 
 ## Contributeurs
