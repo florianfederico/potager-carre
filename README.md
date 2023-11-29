@@ -19,9 +19,17 @@ Vous pouvez consulter son site, dédié aux potagers en carrés, à cette adress
 
 * Gérer des jardins
 * Placer des légumes issus de la légumothèque en XML issue du livre
-* Aide à la décision pour la cohabitation et la rotation des légumes
-* Gestion de l'ensoleillement 
 
+<p align="left">
+  <img src="readme/01-jardin.png" alt="" width="400"/>
+</p>
+
+* Aide à la décision pour la cohabitation et la rotation des légumes
+* Gestion de l'ensoleillement
+ 
+<p align="left">
+  <img src="readme/02-planche.png" alt="" width="200"/>
+</p>
 
 ## Contributeurs
 
