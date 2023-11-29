@@ -20,7 +20,7 @@ Vous pouvez consulter son site, dédié aux potagers en carrés, à cette adress
 * Gérer des jardins
 * Placer des légumes issus de la légumothèque en XML issue du livre
 * Aide à la décision pour la cohabitation et la rotation des légumes
-* 
+* Gestion de l'ensoleillement 
 
 
 ## Contributeurs
