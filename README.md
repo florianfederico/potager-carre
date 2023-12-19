@@ -5,7 +5,7 @@
   <img src="readme/Animation.gif" alt="" width="400"/>
 </p>
 
-Potager en carrés est un projet de développement en Java réalisé en 2014-2015 par une équipe de 4 étudiants en 2ème année de DUT Informatique.
+Potager en carrés est un projet de développement en Java réalisé en 2014-2015 par une équipe de 7 étudiants en 2ème année de DUT Informatique.
 L'objectif est de mettre en pratique les cours de Programmation Orientée Objet et de gestion de projet.
 
 La méthode du jardinage en carrés est une technique de jardinage inventée aux États-Unis en 1980 par Mel Bartholomew. 
